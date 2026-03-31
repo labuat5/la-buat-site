@@ -14,7 +14,7 @@ export default function Home() {
           <div className="hero-buttons">
             <a
               className="btn btn-primary"
-              href="https://www.instagram.com/la_buat_/"
+              href="https://www.instagram.com/la_buat5/"
               target="_blank"
               rel="noreferrer"
             >
